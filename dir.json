@@ -1,0 +1,14 @@
+{
+  "sprites":{
+    "platform1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform1.png",
+    "platform2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform2.png",
+    "platform3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform3.png",
+
+    
+    "socket1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket1.png",
+    "socket2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket2.png",
+    "socket3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket3.png",
+    
+    "plug":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/plug.png",
+  }
+}
