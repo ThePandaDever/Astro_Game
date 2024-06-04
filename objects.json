@@ -1,0 +1,23 @@
+{
+  "platform1":{
+    "texture":"platform1",
+    "size":[1,1],
+    "sockets":[
+      [[0,0],"1","port"]
+    ]
+  },
+  "platform2":{
+    "texture":"platform1",
+    "size":[1,1]
+    "sockets":[
+      [[0,0],"2","port"]
+    ]
+  },
+  "platform3":{
+    "texture":"platform1",
+    "size":[1,1]
+    "sockets":[
+      [[0,0],"3","port"]
+    ]
+  }
+}
