@@ -1,14 +1,14 @@
 {
   "sprites":{
-    "platform1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform1.png",
-    "platform2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform2.png",
-    "platform3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform3.png",
+    "platform1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform1.png?token=GHSAT0AAAAAACSJRLRZA6NLW56OR2ZMZQL4ZS7PJRQ",
+    "platform2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform2.png?token=GHSAT0AAAAAACSJRLRY5DPGDK3QIE4MCSTMZS7PMTQ",
+    "platform3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/platform3.png?token=GHSAT0AAAAAACSJRLRZWTULQPTJLJIMHIS2ZS7PM2A",
 
     
-    "socket1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket1.png",
-    "socket2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket2.png",
-    "socket3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket3.png",
+    "socket1":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket1.png?token=GHSAT0AAAAAACSJRLRZGM34DWWKBTK2MVPAZS7PNBA",
+    "socket2":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket2.png?token=GHSAT0AAAAAACSJRLRYDJJK4OZKPC47H4GQZS7PNDA",
+    "socket3":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/socket3.png?token=GHSAT0AAAAAACSJRLRZG5IW4TO72V7ZO4YMZS7PNFQ",
     
-    "plug":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/plug.png",
+    "plug":"https://raw.githubusercontent.com/ThePandaDever/Astro_Game/main/sprites/plug.png?token=GHSAT0AAAAAACSJRLRZNZIVNDCIUO2AMZYCZS7PNIA",
   }
 }
